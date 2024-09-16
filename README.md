@@ -1,10 +1,12 @@
 Instruções:
+
 1 - Primeiro, você precisa baixar o Node.js, que é uma plataforma de desenvolvimento em JavaScript. Para fazer isso, vá para o site: https://nodejs.org/en/download/package-manager/current e faça o download de acordo com o seu sistema operacional.
 
 2 - Depois de instalar o Node.js, você precisa instalar uma biblioteca chamada "prompt-sync". Essa biblioteca permite que você leia a entrada do usuário no terminal. Para instalá-la, abra o prompt de comando (cmd/terminal) ou o Visual Studio Code e navegue até a pasta do seu projeto "MaisPrati". Por exemplo, se você estiver usando o prompt de comando, digite o seguinte comando:
     "cd C:\Users\Lucas\Desktop\MaisPrati"
     Em seguida, execute o comando:
     "npm install prompt-sync"
+    
 3 - Baixe a extensão code runner e rode qualquer um dos códigos 
 
 Continuação para nerds e entusiastas 
