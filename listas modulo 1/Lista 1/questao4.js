@@ -12,16 +12,13 @@ const opcao = parseInt(prompt("Digite o número da opção desejada:"));
 
 switch (opcao) {
     case 1:
-        console.log("Você escolheu a opção 1");
-        // Lógica da opção 1
+        console.log("Você escolheu a opção 1, ganhou um abraço");
         break;
     case 2:
-        console.log("Você escolheu a opção 2");
-        // Lógica da opção 2
+        console.log("Você escolheu a opção 2, ganhou um churros");
         break;
     case 3:
-        console.log("Você escolheu a opção 3");
-        // Lógica da opção 3
+        console.log("Você escolheu a opção 3, ganhou um hamburguer");
         break;
     default:
         console.log("Opção inválida");
