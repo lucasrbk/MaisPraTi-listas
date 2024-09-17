@@ -11,5 +11,5 @@ const alunos = [
 
 for (const aluno of alunos) {
     const media = (aluno.nota1 + aluno.nota2) / 2;
-    console.log(aluno);
+    console.log("o alundo: " + aluno.nome + " tem a média: " + media);
 }
